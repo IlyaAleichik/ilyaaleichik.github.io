@@ -12,7 +12,7 @@ Test task on a position Frontend Developer
 - CSS - не использовать сторонних CSS-библиотек или препроцессоров
 
 ## Описание страниц:
-<img src="/map.jpg" height="500px">
+<img src="/map.jpg" height="500px" align="center">
 
 - / - главная страница.
 - /login - Авторизация - страница авторизации.
