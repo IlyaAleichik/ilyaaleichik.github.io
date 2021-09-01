@@ -14,7 +14,7 @@ Test task on a position Frontend Developer
 ## Описание страниц:
 <img src="/map.jpg" height="500px">
 
-| NAME | ENCRYPT | DESKRIPTION |
+| Name | Decryption | Description |
 |----------------|:---------:|:----------------:|
 | /              | Главная страница|  |
 | /login         |       Авторизация |   Cтраница авторизации  |
