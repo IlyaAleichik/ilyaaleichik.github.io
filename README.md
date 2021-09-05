@@ -1,4 +1,4 @@
-# REACT-JazzTeam-FrontendDeveloper-TestTask
+# REACT Concept Social Site
 Test task on a position Frontend Developer
 
 ## Описание задачи: 
